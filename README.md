@@ -3,5 +3,5 @@
 link to my first application Indic_Emo
 https://emotion-ai--kimjiwoo7.replit.app/
 
-Some Students tested it out and it will shoe on demo history :)
+Some Students tested it out and it will show on demo history :)
 ENJOY!!
